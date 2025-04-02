@@ -1,4 +1,4 @@
-/// <reference types="cypress" />
+/// <reference types="Cypress" />
 
 
 
@@ -65,7 +65,5 @@ describe('example to-do app', () => {
 cy.get('.oxd-text--toast-message')
 .should('have.text', 'Successfully Deleted')
 
-
-
- })
+})
 })
