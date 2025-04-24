@@ -1,0 +1,25 @@
+
+
+{
+  "login": {
+    "email": "#username",
+    "senha": "#password",
+    "botaoLogin": ".woocommerce-form > .button"
+
+  },
+  "cadastro": {
+    "email": "#reg_email",
+    "senha": "#reg_password",
+    "botaoRegistrar":":nth-child(4) > .button"
+  },
+  "produto": {
+    "tamanhoM": ".button-variable-item-M",
+    "corAzul": ".button-variable-item-Blue",
+    "botaoAdicionar": ".single_add_to_cart_button",
+    "linkFinalizar": ".woocommerce-message a"
+  },
+  "checkout": {
+    "botaoFinalizar": "#place_order",
+    "mensagemSucesso": ".woocommerce-thankyou-order-received"
+  }
+}
