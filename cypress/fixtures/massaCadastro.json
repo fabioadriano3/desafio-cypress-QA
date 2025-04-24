@@ -1,0 +1,11 @@
+{
+    "novoUsuario": {
+      "email": "nova@email.com",
+      "senha": "senhaForte123"
+    },
+    "UsuarioCadastrado": {
+        "email": "nova@email.com",
+        "senha": "senhaForte123"
+      }
+  }
+  
